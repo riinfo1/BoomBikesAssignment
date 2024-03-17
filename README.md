@@ -13,23 +13,38 @@ How well those variables describe the bike demands
 *Read Given CSV Day file
 
 *Checking for missing values
-*Removing casual,registered,instant and dteday as cnt is sum of both column and thesse column have no use
-*Renaming column to provide meaningful name
-*Check for column having unique values
-*Analysis of data by plotting
-*Check for column having unique values
-*Pairplots to check for linear relationship
-*Univariate Analysis
-*Bivariate analysis
-*Dummy Variable creation
-*Train Test split with 70:30 ratio
-*Checking if the variables are highly correlated
-*LinearRegression & Models
-*Residual Analysis
-*R-Squared value for train predictions
-*R-Squared value for test predictions
-*Evaluating the model
 
+*Removing casual,registered,instant and dteday as cnt is sum of both column and thesse column have no use
+
+*Renaming column to provide meaningful name
+
+*Check for column having unique values
+
+*Analysis of data by plotting
+
+*Check for column having unique values
+
+*Pairplots to check for linear relationship
+
+*Univariate Analysis
+
+*Bivariate analysis
+
+*Dummy Variable creation
+
+*Train Test split with 70:30 ratio
+
+*Checking if the variables are highly correlated
+
+*LinearRegression & Models
+
+*Residual Analysis
+
+*R-Squared value for train predictions
+
+*R-Squared value for test predictions
+
+*Evaluating the model
 
 <!-- You can include any other section that is pertinent to your problem -->
 
