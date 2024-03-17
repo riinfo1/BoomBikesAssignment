@@ -9,7 +9,9 @@ How well those variables describe the bike demands
 
 ## Table of Contents
 *Mulitple Linear Regression Problem Statement
+
 *Read Given CSV Day file
+
 *Checking for missing values
 *Removing casual,registered,instant and dteday as cnt is sum of both column and thesse column have no use
 *Renaming column to provide meaningful name
