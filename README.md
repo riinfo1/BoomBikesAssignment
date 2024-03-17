@@ -53,14 +53,23 @@ The given data by BoomBikes is a CSV file and data dictionary where you need to 
 
 
 ## Conclusions
+
 -Conclusion from the excersise- below are the variable which have impact on bike rent Humidity
+
 -holiday
+
 -temp
+
 -windspeed
+
 -Season
+
 -months(January, July, September, November, December)
+
 -year
+
 -sunday
+
 -weathersit( Light_Snowrain, Misty) + Cloud
 
 
